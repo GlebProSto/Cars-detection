@@ -148,5 +148,7 @@ python testing.py
 - Добавить возможность загрузки фотографии через интерфейс.
 
 🍿 Демонстрация
+
+
 <img width="418" height="553" alt="Снимок экрана 2026-11-22 110936" src="https://github.com/user-attachments/assets/beaeaf0a-d32a-4980-8bc4-30720696c406" />
 
